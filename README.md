@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
