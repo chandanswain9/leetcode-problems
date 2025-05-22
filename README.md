@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [2630-alternating-digit-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -62,6 +63,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
@@ -86,6 +88,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
@@ -93,5 +96,10 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
