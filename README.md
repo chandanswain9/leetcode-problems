@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/chandanswain9/leetcode-problems/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [2630-alternating-digit-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/chandanswain9/leetcode-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
