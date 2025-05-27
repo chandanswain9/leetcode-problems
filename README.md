@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/chandanswain9/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +143,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chandanswain9/leetcode-problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/chandanswain9/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
