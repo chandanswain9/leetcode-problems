@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
 | [0485-max-consecutive-ones](https://github.com/chandanswain9/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -97,6 +99,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/chandanswain9/leetcode-problems/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -171,4 +174,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chandanswain9/leetcode-problems/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
