@@ -32,6 +32,7 @@
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0390-elimination-game) |
+| [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2630-alternating-digit-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chandanswain9/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
+| [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
