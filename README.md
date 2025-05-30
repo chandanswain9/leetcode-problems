@@ -98,6 +98,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/chandanswain9/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
+| [1035-cousins-in-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/chandanswain9/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
