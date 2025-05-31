@@ -39,6 +39,7 @@
 | [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2630-alternating-digit-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/2630-alternating-digit-sum) |
+| [2752-sum-multiples](https://github.com/chandanswain9/leetcode-problems/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chandanswain9/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/chandanswain9/leetcode-problems/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
