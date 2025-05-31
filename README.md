@@ -95,6 +95,7 @@
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chandanswain9/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -112,6 +113,7 @@
 | [0210-course-schedule-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chandanswain9/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/chandanswain9/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
@@ -142,6 +144,7 @@
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chandanswain9/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -155,6 +158,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
