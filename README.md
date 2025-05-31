@@ -98,6 +98,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chandanswain9/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
@@ -116,6 +117,7 @@
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/chandanswain9/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chandanswain9/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
@@ -147,6 +149,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chandanswain9/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
