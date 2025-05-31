@@ -15,6 +15,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/chandanswain9/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Stack
