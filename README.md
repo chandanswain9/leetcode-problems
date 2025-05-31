@@ -13,6 +13,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Stack
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
