@@ -110,6 +110,7 @@
 | [1005-univalued-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/chandanswain9/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [1005-univalued-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/chandanswain9/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
