@@ -9,6 +9,7 @@
 | [0485-max-consecutive-ones](https://github.com/chandanswain9/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0682-baseball-game) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -26,6 +27,7 @@
 | [0445-add-two-numbers-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
@@ -226,6 +228,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2058-concatenation-of-array) |
