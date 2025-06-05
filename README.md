@@ -28,6 +28,7 @@
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -73,6 +74,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2470-removing-stars-from-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
@@ -228,6 +230,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Graph
 |  |
 | ------- |
