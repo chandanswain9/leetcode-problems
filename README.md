@@ -10,6 +10,7 @@
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
+| [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
+| [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -199,6 +201,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2058-concatenation-of-array) |
 ## Graph
