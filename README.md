@@ -89,6 +89,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/chandanswain9/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Recursion
@@ -251,6 +255,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
