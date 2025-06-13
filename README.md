@@ -22,6 +22,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chandanswain9/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/chandanswain9/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3429-special-array-i) |
@@ -115,6 +116,7 @@
 | [0402-remove-k-digits](https://github.com/chandanswain9/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/chandanswain9/leetcode-problems/tree/master/0649-dota2-senate) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chandanswain9/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chandanswain9/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
