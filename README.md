@@ -8,6 +8,7 @@
 | [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandanswain9/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0485-max-consecutive-ones](https://github.com/chandanswain9/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
 ## Sorting
 |  |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 ## Prefix Sum
 |  |
