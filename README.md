@@ -58,6 +58,7 @@
 | [0050-powx-n](https://github.com/chandanswain9/leetcode-problems/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandanswain9/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
@@ -192,6 +193,7 @@
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/chandanswain9/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chandanswain9/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
@@ -245,6 +247,7 @@
 | ------- |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
 ## Sorting
 |  |
 | ------- |
