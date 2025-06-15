@@ -98,6 +98,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/chandanswain9/leetcode-problems/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/chandanswain9/leetcode-problems/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/chandanswain9/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chandanswain9/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -252,6 +253,7 @@
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
+| [0516-longest-palindromic-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Sorting
 |  |
 | ------- |
