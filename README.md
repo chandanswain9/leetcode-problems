@@ -16,6 +16,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -316,6 +317,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
