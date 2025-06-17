@@ -14,6 +14,7 @@
 | [0503-next-greater-element-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/chandanswain9/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -85,6 +86,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/chandanswain9/leetcode-problems/tree/master/0146-lru-cache) |
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
+| [0560-subarray-sum-equals-k](https://github.com/chandanswain9/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -317,6 +319,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/chandanswain9/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
