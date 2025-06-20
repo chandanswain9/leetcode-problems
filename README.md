@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chandanswain9/leetcode-problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/chandanswain9/leetcode-problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandanswain9/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
@@ -270,6 +271,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chandanswain9/leetcode-problems/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
@@ -368,4 +370,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chandanswain9/leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
