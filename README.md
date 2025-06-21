@@ -73,6 +73,7 @@
 | [0390-elimination-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0445-add-two-numbers-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -280,6 +281,7 @@
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -377,4 +379,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chandanswain9/leetcode-problems/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
