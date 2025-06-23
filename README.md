@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -259,6 +260,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
