@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
 | [0064-minimum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -285,6 +286,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
@@ -348,6 +350,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
