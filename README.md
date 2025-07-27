@@ -16,6 +16,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
+| [0303-range-sum-query-immutable](https://github.com/chandanswain9/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chandanswain9/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chandanswain9/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/chandanswain9/leetcode-problems/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/chandanswain9/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 ## Binary Tree
 |  |
 | ------- |
@@ -364,6 +366,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/chandanswain9/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/chandanswain9/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2102-find-the-middle-index-in-array) |
