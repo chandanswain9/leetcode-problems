@@ -10,6 +10,7 @@
 | [0064-minimum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandanswain9/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -301,6 +302,7 @@
 | [0064-minimum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
