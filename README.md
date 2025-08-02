@@ -42,6 +42,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chandanswain9/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2689-rearranging-fruits](https://github.com/chandanswain9/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chandanswain9/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/chandanswain9/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -113,6 +114,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2689-rearranging-fruits](https://github.com/chandanswain9/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
 |  |
@@ -158,6 +160,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chandanswain9/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2689-rearranging-fruits](https://github.com/chandanswain9/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/chandanswain9/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chandanswain9/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
@@ -319,6 +322,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chandanswain9/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2689-rearranging-fruits](https://github.com/chandanswain9/leetcode-problems/tree/master/2689-rearranging-fruits) |
 ## Recursion
 |  |
 | ------- |
