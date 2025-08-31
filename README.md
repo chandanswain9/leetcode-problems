@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/chandanswain9/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/chandanswain9/leetcode-problems/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chandanswain9/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -146,6 +148,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chandanswain9/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -181,6 +184,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -318,6 +322,7 @@
 | [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
