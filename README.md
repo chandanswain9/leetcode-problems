@@ -48,6 +48,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chandanswain9/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/chandanswain9/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3639-zero-array-transformation-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
@@ -98,6 +99,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/chandanswain9/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/chandanswain9/leetcode-problems/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chandanswain9/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/chandanswain9/leetcode-problems/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -117,6 +119,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2689-rearranging-fruits](https://github.com/chandanswain9/leetcode-problems/tree/master/2689-rearranging-fruits) |
+| [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
 |  |
@@ -375,6 +378,7 @@
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
