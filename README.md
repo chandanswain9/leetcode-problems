@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandanswain9/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -429,4 +430,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
