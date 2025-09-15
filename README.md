@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/chandanswain9/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/chandanswain9/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/chandanswain9/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/chandanswain9/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
