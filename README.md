@@ -12,6 +12,7 @@
 | [0064-minimum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandanswain9/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
@@ -114,6 +115,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/chandanswain9/leetcode-problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
@@ -198,6 +200,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/chandanswain9/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chandanswain9/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -280,6 +284,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chandanswain9/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
