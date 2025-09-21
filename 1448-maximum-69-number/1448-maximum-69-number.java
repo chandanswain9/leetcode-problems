@@ -1,12 +1,14 @@
 class Solution {
     public int maximum69Number(int num) {
-        String s = String.valueOf(num);
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '6') {
-                s = s.substring(0, i) + '9' + s.substring(i + 1);
-                break;
+        char[] digits = String.valueOf(num).toCharArray();
+        
+        for (int i = 0; i < digits.length; i++) {
+            if (digits[i] == '6') {
+                digits[i] = '9';
+                break; 
             }
         }
-        return Integer.parseInt(s);
+        
+        return Integer.parseInt(new String(digits));
     }
 }
