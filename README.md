@@ -102,6 +102,7 @@
 | [0445-add-two-numbers-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/chandanswain9/leetcode-problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
