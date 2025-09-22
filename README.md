@@ -57,6 +57,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/chandanswain9/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chandanswain9/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3429-special-array-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3639-zero-array-transformation-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
@@ -135,6 +136,7 @@
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2689-rearranging-fruits](https://github.com/chandanswain9/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chandanswain9/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/chandanswain9/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
@@ -173,6 +175,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/chandanswain9/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chandanswain9/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/chandanswain9/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
