@@ -163,6 +163,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2470-removing-stars-from-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/chandanswain9/leetcode-problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
@@ -367,6 +368,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chandanswain9/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/chandanswain9/leetcode-problems/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Recursion
 |  |
 | ------- |
