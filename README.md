@@ -162,6 +162,7 @@
 | [1250-longest-common-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chandanswain9/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chandanswain9/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chandanswain9/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -360,6 +361,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/chandanswain9/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chandanswain9/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sorting
 |  |
 | ------- |
