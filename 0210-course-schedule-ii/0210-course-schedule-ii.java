@@ -1,41 +1,39 @@
 class Solution {
-    private boolean hasCycle(int node, List<List<Integer>> graph, int[] visited, Stack<Integer> stack) {
-        if (visited[node] == 1)
-            return true;
-        if (visited[node] == 2)
-            return false;
-        visited[node] = 1;
-        for (int neighbor : graph.get(node)) {
-            if (hasCycle(neighbor, graph, visited, stack)) {
-                return true;
-            }
-        }
-        visited[node] = 2;
-        stack.push(node);
-        return false;
-    }
-
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         List<List<Integer>> graph = new ArrayList<>();
+        int[] inDegree = new int[numCourses];
+
         for (int i = 0; i < numCourses; i++) {
             graph.add(new ArrayList<>());
         }
-        for (int[] pre : prerequisites) {
-            int course = pre[0], prereq = pre[1];
-            graph.get(prereq).add(course);
-        }
-        int[] visited = new int[numCourses];
-        Stack<Integer> stack = new Stack<>();
 
+        for (int[] pair : prerequisites) {
+            int dest = pair[0], src = pair[1];
+            graph.get(src).add(dest);
+            inDegree[dest]++;
+        }
+
+        Queue<Integer> queue = new LinkedList<>();
         for (int i = 0; i < numCourses; i++) {
-            if (hasCycle(i, graph, visited, stack)) {
-                return new int[0];
+            if (inDegree[i] == 0) queue.offer(i);
+        }
+
+        int[] result = new int[numCourses];
+        int index = 0;
+
+        while (!queue.isEmpty()) {
+            int course = queue.poll();
+            result[index++] = course;
+
+            for (int neighbor : graph.get(course)) {
+                inDegree[neighbor]--;
+                if (inDegree[neighbor] == 0) queue.offer(neighbor);
             }
         }
-        int[] res = new int[numCourses];
-        for (int i = 0; i < numCourses; i++) {
-            res[i] = stack.pop();
+        if(index == numCourses) {
+            return result;
+        }else{
+            return new int[0];
         }
-        return res;
     }
 }
