@@ -149,6 +149,7 @@
 | ------- |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/chandanswain9/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/chandanswain9/leetcode-problems/tree/master/0402-remove-k-digits) |
@@ -349,6 +350,7 @@
 | [0064-minimum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/chandanswain9/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandanswain9/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
