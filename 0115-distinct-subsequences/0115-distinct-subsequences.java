@@ -1,23 +1,29 @@
 class Solution {
     public int numDistinct(String s, String t) {
-        int m = s.length();
         int n = t.length();
-        
-        int[][] dp = new int[m + 1][n + 1];
-        
-        for (int i = 0; i <= m; i++) {
-            dp[i][0] = 1;
+        int m = s.length();
+        int[][] memo = new int[n + 1][m + 1];
+        for (int[] row : memo) {
+            Arrays.fill(row, -1);
         }
-        
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (s.charAt(i - 1) == t.charAt(j - 1)) {
-                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j];
-                } else {
-                    dp[i][j] = dp[i - 1][j];
-                }
-            }
+        return rec(0, 0, s, t, memo);
+    }
+
+    private int rec(int i, int j, String s, String t, int[][] memo) {
+        int n = t.length();
+        int m = s.length();
+
+        if (i == n) return 1;
+        if (j == m) return 0;
+        if (memo[i][j] != -1) return memo[i][j];
+
+        int ans = 0;
+        if (t.charAt(i) == s.charAt(j)) {
+            ans += rec(i + 1, j + 1, s, t, memo);
         }
-        return dp[m][n];
+        ans += rec(i, j + 1, s, t, memo);
+
+        memo[i][j] = ans;
+        return ans;
     }
 }
