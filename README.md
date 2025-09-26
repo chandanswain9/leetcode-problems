@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandanswain9/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0136-single-number) |
@@ -346,6 +347,7 @@
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandanswain9/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
