@@ -15,7 +15,8 @@ class Solution {
 
         Queue<Integer> queue = new LinkedList<>();
         for (int i = 0; i < numCourses; i++) {
-            if (inDegree[i] == 0) queue.offer(i);
+            if (inDegree[i] == 0)
+                queue.offer(i);
         }
 
         int[] result = new int[numCourses];
@@ -27,12 +28,13 @@ class Solution {
 
             for (int neighbor : graph.get(course)) {
                 inDegree[neighbor]--;
-                if (inDegree[neighbor] == 0) queue.offer(neighbor);
+                if (inDegree[neighbor] == 0)
+                    queue.offer(neighbor);
             }
         }
-        if(index == numCourses) {
+        if (index == numCourses) {
             return result;
-        }else{
+        } else {
             return new int[0];
         }
     }
