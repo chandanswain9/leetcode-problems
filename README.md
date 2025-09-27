@@ -37,6 +37,7 @@
 | [0654-maximum-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0830-largest-triangle-area](https://github.com/chandanswain9/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -102,6 +103,7 @@
 | [0390-elimination-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0445-add-two-numbers-ii) |
+| [0830-largest-triangle-area](https://github.com/chandanswain9/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/chandanswain9/leetcode-problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -486,4 +488,8 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/chandanswain9/leetcode-problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
