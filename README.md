@@ -239,6 +239,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chandanswain9/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -263,6 +264,7 @@
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chandanswain9/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/chandanswain9/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0210-course-schedule-ii) |
@@ -308,6 +310,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chandanswain9/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -356,6 +359,7 @@
 | [0118-pascals-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/chandanswain9/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandanswain9/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
