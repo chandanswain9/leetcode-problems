@@ -39,6 +39,7 @@
 | [0724-find-pivot-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/chandanswain9/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
+| [1031-add-to-array-form-of-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
@@ -105,6 +106,7 @@
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [0830-largest-triangle-area](https://github.com/chandanswain9/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [1031-add-to-array-form-of-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/chandanswain9/leetcode-problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
