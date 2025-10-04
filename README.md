@@ -43,6 +43,7 @@
 | [0983-validate-stack-sequences](https://github.com/chandanswain9/leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1031-add-to-array-form-of-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -142,6 +143,7 @@
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chandanswain9/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chandanswain9/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chandanswain9/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
