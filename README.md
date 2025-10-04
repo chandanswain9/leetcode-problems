@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chandanswain9/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/chandanswain9/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -195,6 +196,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chandanswain9/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/chandanswain9/leetcode-problems/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/chandanswain9/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/chandanswain9/leetcode-problems/tree/master/0649-dota2-senate) |
@@ -454,6 +456,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chandanswain9/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/chandanswain9/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
