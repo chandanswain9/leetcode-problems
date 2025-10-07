@@ -45,6 +45,7 @@
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chandanswain9/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2058-concatenation-of-array) |
@@ -144,6 +145,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chandanswain9/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -206,6 +208,7 @@
 | [0649-dota2-senate](https://github.com/chandanswain9/leetcode-problems/tree/master/0649-dota2-senate) |
 | [1448-maximum-69-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chandanswain9/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -240,6 +243,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 ## Merge Sort
 |  |
 | ------- |
@@ -359,6 +363,7 @@
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chandanswain9/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
