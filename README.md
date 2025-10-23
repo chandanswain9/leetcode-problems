@@ -224,6 +224,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandanswain9/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/chandanswain9/leetcode-problems/tree/master/0146-lru-cache) |
