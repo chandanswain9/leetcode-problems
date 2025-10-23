@@ -27,6 +27,7 @@
 | [0219-contains-duplicate-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/chandanswain9/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chandanswain9/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -401,6 +402,7 @@
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
