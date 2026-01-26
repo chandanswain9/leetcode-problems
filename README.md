@@ -44,6 +44,7 @@
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0983-validate-stack-sequences](https://github.com/chandanswain9/leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1031-add-to-array-form-of-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1031-add-to-array-form-of-integer) |
+| [1200-minimum-absolute-difference](https://github.com/chandanswain9/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/chandanswain9/leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -405,6 +406,7 @@
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
+| [1200-minimum-absolute-difference](https://github.com/chandanswain9/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chandanswain9/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
