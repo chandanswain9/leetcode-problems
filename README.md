@@ -166,6 +166,7 @@
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/chandanswain9/leetcode-problems/tree/master/0115-distinct-subsequences) |
