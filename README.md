@@ -180,6 +180,7 @@
 | [0649-dota2-senate](https://github.com/chandanswain9/leetcode-problems/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/chandanswain9/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chandanswain9/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1044-longest-duplicate-substring](https://github.com/chandanswain9/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chandanswain9/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chandanswain9/leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -374,6 +375,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
+| [1044-longest-duplicate-substring](https://github.com/chandanswain9/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
@@ -539,4 +541,17 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [1044-longest-duplicate-substring](https://github.com/chandanswain9/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/chandanswain9/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/chandanswain9/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/chandanswain9/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
