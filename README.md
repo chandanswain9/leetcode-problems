@@ -183,6 +183,7 @@
 | [0409-longest-palindrome](https://github.com/chandanswain9/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/chandanswain9/leetcode-problems/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/chandanswain9/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/chandanswain9/leetcode-problems/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/chandanswain9/leetcode-problems/tree/master/0874-backspace-string-compare) |
