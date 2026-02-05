@@ -71,6 +71,7 @@
 | [3194-find-words-containing-character](https://github.com/chandanswain9/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chandanswain9/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3379-transformed-array](https://github.com/chandanswain9/leetcode-problems/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3639-zero-array-transformation-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
@@ -462,6 +463,7 @@
 | [2058-concatenation-of-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
+| [3379-transformed-array](https://github.com/chandanswain9/leetcode-problems/tree/master/3379-transformed-array) |
 ## Graph
 |  |
 | ------- |
