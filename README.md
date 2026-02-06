@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/chandanswain9/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandanswain9/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
@@ -380,6 +381,7 @@
 | [0099-recover-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandanswain9/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
@@ -507,6 +509,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandanswain9/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0874-backspace-string-compare](https://github.com/chandanswain9/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
