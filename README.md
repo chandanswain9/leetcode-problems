@@ -46,6 +46,7 @@
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0983-validate-stack-sequences](https://github.com/chandanswain9/leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1031-add-to-array-form-of-integer](https://github.com/chandanswain9/leetcode-problems/tree/master/1031-add-to-array-form-of-integer) |
+| [1187-make-array-strictly-increasing](https://github.com/chandanswain9/leetcode-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/chandanswain9/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -392,6 +393,7 @@
 | [0975-range-sum-of-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1044-longest-duplicate-substring](https://github.com/chandanswain9/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1187-make-array-strictly-increasing](https://github.com/chandanswain9/leetcode-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chandanswain9/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -416,6 +418,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/chandanswain9/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1187-make-array-strictly-increasing](https://github.com/chandanswain9/leetcode-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1236-n-th-tribonacci-number](https://github.com/chandanswain9/leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chandanswain9/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -430,6 +433,7 @@
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/chandanswain9/leetcode-problems/tree/master/0924-fair-candy-swap) |
+| [1187-make-array-strictly-increasing](https://github.com/chandanswain9/leetcode-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/chandanswain9/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/chandanswain9/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
