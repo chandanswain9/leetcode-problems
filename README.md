@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/chandanswain9/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/chandanswain9/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -405,6 +406,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandanswain9/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chandanswain9/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0538-convert-bst-to-greater-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chandanswain9/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -539,6 +541,7 @@
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandanswain9/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chandanswain9/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/chandanswain9/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/chandanswain9/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -580,6 +583,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/chandanswain9/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Number Theory
 |  |
