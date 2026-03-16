@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/chandanswain9/leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/chandanswain9/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/chandanswain9/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -537,6 +538,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandanswain9/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/chandanswain9/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/chandanswain9/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/chandanswain9/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
