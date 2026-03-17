@@ -296,6 +296,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -326,6 +327,7 @@
 | ------- |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -350,6 +352,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/chandanswain9/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandanswain9/leetcode-problems/tree/master/0210-course-schedule-ii) |
@@ -375,6 +378,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chandanswain9/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chandanswain9/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chandanswain9/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
