@@ -64,6 +64,7 @@
 | [2058-concatenation-of-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/chandanswain9/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/chandanswain9/leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/chandanswain9/leetcode-problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -171,6 +172,7 @@
 | [1500-count-largest-group](https://github.com/chandanswain9/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/chandanswain9/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/chandanswain9/leetcode-problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/chandanswain9/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -234,6 +236,7 @@
 | [0692-top-k-frequent-words](https://github.com/chandanswain9/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chandanswain9/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/chandanswain9/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chandanswain9/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2351-first-letter-to-appear-twice](https://github.com/chandanswain9/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chandanswain9/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
