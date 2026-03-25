@@ -84,6 +84,7 @@
 | [3379-transformed-array](https://github.com/chandanswain9/leetcode-problems/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3546-equal-sum-grid-partition-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chandanswain9/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Stack
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chandanswain9/leetcode-problems/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [3546-equal-sum-grid-partition-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
 |  |
 | ------- |
@@ -540,6 +542,7 @@
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [1386-shift-2d-grid](https://github.com/chandanswain9/leetcode-problems/tree/master/1386-shift-2d-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3546-equal-sum-grid-partition-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -549,6 +552,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chandanswain9/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/chandanswain9/leetcode-problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/chandanswain9/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
+| [3546-equal-sum-grid-partition-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
