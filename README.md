@@ -87,6 +87,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chandanswain9/leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/chandanswain9/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/chandanswain9/leetcode-problems/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandanswain9/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3875-construct-uniform-parity-array-i](https://github.com/chandanswain9/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
