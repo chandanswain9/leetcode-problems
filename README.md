@@ -122,6 +122,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/chandanswain9/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/chandanswain9/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/chandanswain9/leetcode-problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
@@ -609,6 +610,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/chandanswain9/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandanswain9/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/chandanswain9/leetcode-problems/tree/master/0645-set-mismatch) |
