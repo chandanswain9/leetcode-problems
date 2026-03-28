@@ -128,6 +128,7 @@
 | [0096-unique-binary-search-trees](https://github.com/chandanswain9/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandanswain9/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/chandanswain9/leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/chandanswain9/leetcode-problems/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/chandanswain9/leetcode-problems/tree/master/0398-random-pick-index) |
@@ -458,6 +459,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/chandanswain9/leetcode-problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/chandanswain9/leetcode-problems/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/chandanswain9/leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandanswain9/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -536,6 +538,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chandanswain9/leetcode-problems/tree/master/0079-word-search) |
+| [0357-count-numbers-with-unique-digits](https://github.com/chandanswain9/leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/chandanswain9/leetcode-problems/tree/master/0494-target-sum) |
 ## Matrix
 |  |
